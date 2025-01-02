@@ -9,6 +9,11 @@
  |_____/ \____/|_|  \_\______|_| \_| |_____/|_|  |_/_/    \_\_|  |_|______\____/ \____/ 
 ```
 
+Powerful radio jammer that disrupts remote controls
+
+⚠️**The use of this virus is the responsibility of the individual, not the programmer.**
+
+
 
 ## INSTALLATION
 
