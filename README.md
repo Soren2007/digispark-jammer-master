@@ -11,7 +11,8 @@
 
 Powerful radio jammer that disrupts remote controls
 
-⚠️**The use of this virus is the responsibility of the individual, not the programmer.**
+> [!WARNING]
+> The use of this virus is the responsibility of the individual, not the programmer.
 
 
 
