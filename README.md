@@ -11,7 +11,8 @@
 
 Powerful radio jammer that disrupts remote controls
 
-⚠️**The use of this virus is the responsibility of the individual, not the programmer.**
+> [!WARNING]
+> The use of this virus is the responsibility of the individual, not the programmer.
 
 
 
@@ -32,9 +33,6 @@ git clone https://github.com/Soren2007/digispark-jammer-master.git
 ![alt text](https://github.com/soren2007/digispark-jammer-master/blob/master/circuit.png?raw=true)
 
 ## EXAMPLES
-
-[![Watch the video](https://github.com/Soren2007/digispark-rat-installer/blob/master/image.jpg)](https://darsmanco.ir/media/images/temp/Example.mp4)
-
 ![alt text](https://github.com/soren2007/digispark-jammer-master/blob/master/JAMMER-1.png?raw=true)
 
 ![alt text](https://github.com/soren2007/digispark-jammer-master/blob/master/JAMMER-best-settings.png?raw=true)
